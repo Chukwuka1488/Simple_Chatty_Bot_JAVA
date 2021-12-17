@@ -1,0 +1,88 @@
+# Project exclude paths
+/.gradle/
+/Simple Chatty Bot/task/build/
+/Simple Chatty Bot/task/out/
+/Simple Chatty Bot/task/out/production/classes/
+/Topics/Comments/The countdown/out/
+/Topics/Comments/The countdown/out/production/classes/
+/Topics/Conditional statement/Chocolate/out/
+/Topics/Conditional statement/Chocolate/out/production/classes/
+/Topics/Conditional statement/Interval/out/
+/Topics/Conditional statement/Interval/out/production/classes/
+/Topics/Conditional statement/Leap year/out/
+/Topics/Conditional statement/Leap year/out/production/classes/
+/Topics/Conditional statement/Symmetrical number/out/
+/Topics/Conditional statement/Symmetrical number/out/production/classes/
+/Topics/Conditional statement/The army of units/out/
+/Topics/Conditional statement/The army of units/out/production/classes/
+/Topics/Conditional statement/Triangle/out/
+/Topics/Conditional statement/Triangle/out/production/classes/
+/Topics/Increment and decrement/Decrement all/out/
+/Topics/Increment and decrement/Decrement all/out/production/classes/
+/Topics/Integer types and operations/Desks/out/
+/Topics/Integer types and operations/Desks/out/production/classes/
+/Topics/Integer types and operations/Difference of times/out/
+/Topics/Integer types and operations/Difference of times/out/production/classes/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/
+/Topics/Integer types and operations/How many nuts each squirrel will get/out/production/classes/
+/Topics/Integer types and operations/Reversing/out/
+/Topics/Integer types and operations/Reversing/out/production/classes/
+/Topics/Integer types and operations/Snail/out/
+/Topics/Integer types and operations/Snail/out/production/classes/
+/Topics/Integer types and operations/Tens digit/out/
+/Topics/Integer types and operations/Tens digit/out/production/classes/
+/Topics/Overview of the basic program/The Hello World program/out/
+/Topics/Overview of the basic program/The Hello World program/out/production/classes/
+/Topics/Overview of the basic program/Theory/build/
+/Topics/Overview of the basic program/Theory/out/
+/Topics/Overview of the basic program/Theory/out/production/classes/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/
+/Topics/Printing data/Digits from 0 to 9 in a single line/out/production/classes/
+/Topics/Printing data/First, second, third/out/
+/Topics/Printing data/First, second, third/out/production/classes/
+/Topics/Printing data/From 0 to 4/out/
+/Topics/Printing data/From 0 to 4/out/production/classes/
+/Topics/Printing data/Printing a magic letter/out/
+/Topics/Printing data/Printing a magic letter/out/production/classes/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/
+/Topics/Printing data/The result of a Tic-Tac-Toe game/out/production/classes/
+/Topics/Relational operators/Boys in a sport class/out/
+/Topics/Relational operators/Boys in a sport class/out/production/classes/
+/Topics/Relational operators/Check the given numbers are different/out/
+/Topics/Relational operators/Check the given numbers are different/out/production/classes/
+/Topics/Relational operators/Exactly one parameter is positive/out/
+/Topics/Relational operators/Exactly one parameter is positive/out/production/classes/
+/Topics/Relational operators/Groundhogs at a party/out/
+/Topics/Relational operators/Groundhogs at a party/out/production/classes/
+/Topics/Relational operators/Is between/out/
+/Topics/Relational operators/Is between/out/production/classes/
+/Topics/Scanning the input/Guest list of a hotel/out/
+/Topics/Scanning the input/Guest list of a hotel/out/production/classes/
+/Topics/Scanning the input/Hiring a chef/out/
+/Topics/Scanning the input/Hiring a chef/out/production/classes/
+/Topics/Scanning the input/Print strings in the reverse order/out/
+/Topics/Scanning the input/Print strings in the reverse order/out/production/classes/
+/Topics/Scanning the input/Printing strings in the same order/out/
+/Topics/Scanning the input/Printing strings in the same order/out/production/classes/
+/Topics/String/Check prefix ignoring the case/out/
+/Topics/String/Check prefix ignoring the case/out/production/classes/
+/Topics/String/Comparing strings ignoring whitespaces/out/
+/Topics/String/Comparing strings ignoring whitespaces/out/production/classes/
+/Topics/String/Replacing 'a' with 'b'/out/
+/Topics/String/Replacing 'a' with 'b'/out/production/classes/
+/Topics/The for-loop/Arithmetic average/out/
+/Topics/The for-loop/Arithmetic average/out/production/classes/
+/Topics/The for-loop/Fizz Buzz/out/
+/Topics/The for-loop/Fizz Buzz/out/production/classes/
+/Topics/The for-loop/Grades/out/
+/Topics/The for-loop/Grades/out/production/classes/
+/Topics/The for-loop/Maximum element divisible by four/out/
+/Topics/The for-loop/Maximum element divisible by four/out/production/classes/
+/Topics/The for-loop/Numbers divisible by six/out/
+/Topics/The for-loop/Numbers divisible by six/out/production/classes/
+/Topics/The for-loop/Size of parts/out/
+/Topics/The for-loop/Size of parts/out/production/classes/
+/Topics/The for-loop/The count of numbers divisible by N/out/
+/Topics/The for-loop/The count of numbers divisible by N/out/production/classes/
+/Topics/The for-loop/The roots of an equation/out/
+/Topics/The for-loop/The roots of an equation/out/production/classes/
